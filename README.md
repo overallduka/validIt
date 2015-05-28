@@ -1,4 +1,5 @@
 validIt
+#Cássio...
 =======
 Definition: A simple JQuery plugin to validade field of form
 
